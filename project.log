@@ -1,0 +1,16 @@
+
+
+!CONFIGURATION: 'Release' (com.ti.ccstudio.buildDefinitions.TMS470.Release.2113632374) [Tue Oct 11 13:18:53 MSK 2022]
+
+	!TOOL: 'Arm Compiler' (com.ti.ccstudio.buildDefinitions.TMS470_20.2.exe.compilerRelease.661661984)
+
+		!NOTE: Deprecated build flag '--float_support=vfplib' was migrated to '--float_support=none'.
+
+
+
+!CONFIGURATION: 'Debug' (com.ti.ccstudio.buildDefinitions.TMS470.Debug.1555239403) [Sat Apr 15 00:21:32 MSK 2023]
+
+	!TOOL: 'Arm Compiler' (com.ti.ccstudio.buildDefinitions.TMS470_20.2.exe.compilerDebug.71136253)
+
+		!NOTE: Deprecated build flag '--float_support=vfplib' was migrated to '--float_support=none'.
+
